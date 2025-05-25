@@ -1,0 +1,4 @@
+name: BlissRemake
+version: '1.0.0'
+main: starred.bliss.blissRemake.BlissRemake
+api-version: '1.21'
