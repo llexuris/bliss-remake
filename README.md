@@ -1,4 +1,4 @@
-# 🌿 Bliss SMP Plugin Remake
+# 💎 Bliss SMP Plugin Remake
 
 A modern reimplementation of the original Bliss SMP plugin, designed for the latest versions of [PaperMC](https://papermc.io/). This plugin brings customizable survival mechanics and perks tailored for engaging and balanced SMP gameplay.
 
